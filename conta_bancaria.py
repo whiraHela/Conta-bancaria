@@ -22,3 +22,4 @@ conta.depositar(50)
 conta.printar_saldo()  # Saldo: 150
 conta.sacar(70)
 conta.printar_saldo()  # Saldo: 80
+conta.depositar(125)
